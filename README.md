@@ -1,2 +1,2 @@
-# Dev-Chronicle
-Document your daily progress with Dev Chronicle.
+# Craft Log
+Document your daily progress with Craft Log.
